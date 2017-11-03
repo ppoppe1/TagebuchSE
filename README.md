@@ -32,3 +32,4 @@
 - 30 min Einarbeiten in CSS
 - 90 min wöchentliches Gruppenmeeting
 - 10 min Überarbeiten des Pflichtenhefts mit Jonas R.
+- 90 min wöchentliches Praktikum
