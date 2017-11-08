@@ -33,3 +33,7 @@
 - 90 min wöchentliches Gruppenmeeting
 - 10 min Überarbeiten des Pflichtenhefts mit Jonas R.
 - 90 min wöchentliches Praktikum
+
+## 08.11.2017
+
+- 60 min Einarbeitung in Änderungen HTML5
