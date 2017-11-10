@@ -37,3 +37,13 @@
 ## 08.11.2017
 
 - 60 min Einarbeitung in Änderungen HTML5
+
+## 09.11.2017
+
+- 60 min Überarbeitung Pflichtenheft
+- 60 min Übungsaufgaben CSS
+
+## 10.11.2017
+
+- 60 min Gruppenmeeting
+
