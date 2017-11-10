@@ -47,4 +47,6 @@
 
 - 60 min Gruppenmeeting
 - 90 min CSS-Tutorials
+- 60 min Praktikum
+- 45 min Erstellung des Glossars im Pflichtenheft
 
