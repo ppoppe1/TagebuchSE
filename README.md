@@ -46,4 +46,5 @@
 ## 10.11.2017
 
 - 60 min Gruppenmeeting
+- 90 min CSS-Tutorials
 
