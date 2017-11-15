@@ -4,7 +4,7 @@
 
 - 60 min Kick-Off-Meeting (Praktikum)
 
-## 24.20.2017
+## 24.10.2017
 
 - 60 min Meeting zum Pflichtenheft
 - 40 min Schreiben des Pflichtenheftes
@@ -50,3 +50,7 @@
 - 60 min Praktikum
 - 45 min Erstellung des Glossars im Pflichtenheft
 
+
+## 15.11.2017
+
+- 60 min Weiterschreiben des Glossars im Pflichtenheft
