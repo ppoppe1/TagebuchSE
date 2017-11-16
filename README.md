@@ -54,3 +54,7 @@
 ## 15.11.2017
 
 - 60 min Weiterschreiben des Glossars im Pflichtenheft
+
+## 16.11.2017
+
+- 210 min Einbinden der User Stories als Tabellenform im Pflichtenheft
