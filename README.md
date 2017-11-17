@@ -58,3 +58,8 @@
 ## 16.11.2017
 
 - 210 min Einbinden der User Stories als Tabellenform im Pflichtenheft
+
+## 17.11.2017
+
+- 60 min wöchentliches Gruppenmeeting
+- 60 min Besprechung im Web-Frontend-Team
