@@ -63,3 +63,4 @@
 
 - 60 min wöchentliches Gruppenmeeting
 - 60 min Besprechung im Web-Frontend-Team
+- 40 min Überarbeitung Pflichtenheft
