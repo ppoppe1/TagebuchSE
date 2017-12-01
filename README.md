@@ -64,3 +64,12 @@
 - 60 min wöchentliches Gruppenmeeting
 - 60 min Besprechung im Web-Frontend-Team
 - 40 min Überarbeitung Pflichtenheft
+
+## 24.11.2017
+
+- 60 min Einbauen und Korrigieren Use Cases
+
+## 01.12.2017
+
+- 45 min Gruppenmeeting
+- 180 min Überarbeiten Use Case und Pflichtenheft
