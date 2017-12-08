@@ -73,3 +73,17 @@
 
 - 45 min Gruppenmeeting
 - 180 min Überarbeiten Use Case und Pflichtenheft
+- 60 min Praktikum
+
+## 06.12.2017
+
+- 150 min Zusammenfassungen für Vorlesung 8
+
+## 07.12.2017
+
+- 120 min Überarbeitung der Use Case Diagramme
+
+## 08.12.2017
+
+- 30 min Gruppenmeeting
+- 30 min Überarbeitung Pflichtenheft
