@@ -87,3 +87,9 @@
 
 - 30 min Gruppenmeeting
 - 30 min Überarbeitung Pflichtenheft
+- 90 min Praktikum
+
+## 15.12.2017
+
+- 30 min Gruppenmeeting
+- 180 min Arbeiten an einer Veranstaltungsübersicht + einlesen
