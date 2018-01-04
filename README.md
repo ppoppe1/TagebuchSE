@@ -93,3 +93,20 @@
 
 - 30 min Gruppenmeeting
 - 180 min Arbeiten an einer Veranstaltungsübersicht + einlesen
+
+## 28.12.2017
+
+- 120 min Umbauen der Content-Struktur
+
+## 29.12.2017
+
+- 30 min Einbinden von Google Maps
+
+## 31.12.2017
+
+- 30 min Erster Versuch den Usernamen im Header einzubinden
+
+## 04.01.2018 
+
+- 60 min Einbau des eingeloggten User in den Header
+- 90 min Einbau von JavaScript für die Veranstaltungseite
