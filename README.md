@@ -110,3 +110,36 @@
 
 - 60 min Einbau des eingeloggten User in den Header
 - 90 min Einbau von JavaScript für die Veranstaltungseite
+
+## 05.01.2018
+
+- 60 min Gruppenmeeting
+- 90 min Praktikum
+
+## 10.01.2018
+
+- 30 min Einlesen in Vue-Conditionals und ausprobieren
+
+## 11.01.2018
+
+- 180 min Arbeiten an der Einzelansicht einer Party
+
+## 18.01.2018
+
+- 60 min Testen der Weboberfläche 
+
+## 19.01.2018
+
+- 60 min Gruppenmeeting
+- 150 min Suchen und Beheben von Fehlern
+- 90 min Gruppenmeeting
+
+## 24.01.2018
+
+- 120 min Üben der Abschlusspräsentation
+
+## 26.01.2018
+
+- 60 min Gruppenmeeting
+- 120 min Abschlusspräsentation durchgehen und vorbereiten
+- 60 min Praktikum, Abschlusspräsentation
